@@ -115,6 +115,10 @@ agents exist?"; reputation answers "which are trustworthy?".
   DeepEval, Phoenix, TruLens. (Apache-2.0)
 - **[Patronus AI](https://www.patronus.ai)** — Managed evaluators + open-weight judge
   models (Lynx for hallucination, Glider) + agent failure-mode debugging.
+- **[Agent QA](https://github.com/vostride/agent-qa)** — Source-available TypeScript
+  QA agent that runs natural-language web/mobile flows and returns structured step
+  evidence plus pass/fail results for application changes; it does not evaluate LLM
+  outputs or agent trajectories. (FSL-1.1-ALv2)
 
 ## Observability & tracing platforms
 
